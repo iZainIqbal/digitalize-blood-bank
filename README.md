@@ -31,7 +31,7 @@ A mobile app that connects blood donors with recipients, streamlining the proces
 
 ## 🎬 Project Demo
 
-📺 [Click here to watch the demo](https://github.com/iZainIqbal/digitalize-blood-bank/blob/main/Demo-App.mp4)
+📺 [Click here to watch the demo](https://www.youtube.com/shorts/XoDwdQPJYMU)
 
 ---
 
